@@ -2,15 +2,16 @@
 
 git clone https://github.com/adjigereev/testLocal.git
 ______________________________________
-cd testLocal
+### `cd testLocal`
+
 _______________________________________
-npm install 
+### ` npm install `
 ______________________________________
-npm start 
+###  `npm start` 
 ____________________________
 
 
-Данные для входа:
+Данные для входа:\
 user = {
         login: 'testlogin',
         password: 123456
