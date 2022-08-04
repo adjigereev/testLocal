@@ -1,0 +1,14 @@
+.container{
+    width: 947px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.row{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.position{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
